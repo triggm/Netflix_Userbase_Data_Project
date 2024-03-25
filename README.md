@@ -1,13 +1,27 @@
-# GitHub Codespaces ♥️ Django
+# **Netflix Userdata Project - Exploratory Data Analysis (EDA) with Seaborn**
 
-Welcome to your shiny new Codespace running Django! We've got everything fired up and running for you to explore Django.
+### Overview:
+This project provides a beginner-friendly introduction to exploratory data analysis (EDA) and visualization techniques using the Netflix Userbase Dataset. Leveraging the capabilities of Seaborn, a powerful Python library for data visualization, this notebook demonstrates how to analyze the dataset and extract valuable insights into various aspects such as gender distribution, age demographics, subscription types, and more.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
+### Project Description:
+The main goal of this project is to showcase the process of conducting EDA and visualization on real-world datasets, particularly focusing on the Netflix Userbase Dataset. By following along with this notebook, beginners can gain hands-on experience in data analysis and visualization using Seaborn, a renowned Python library for data exploration.
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+### Key Features:
+- Introduction to EDA techniques using Seaborn.
+- Analysis of gender distribution within the Netflix userbase.
+- Exploration of age demographics among Netflix users.
+- Examination of subscription types and their prevalence.
+- Demonstration of competency in data analysis and visualization.
 
-To run this application:
+### Usage:
+To use this notebook, follow these steps:
+1. Ensure you have Python installed on your system.
+2. Install the required libraries by running `pip install seaborn pandas matplotlib`.
+3. Download the Netflix Userbase Dataset and save it in the same directory as the notebook.
+4. Open the notebook using Jupyter Notebook or any compatible environment.
+5. Follow the instructions and code cells in the notebook to perform EDA and visualization.
 
-```python
-python manage.py runserver
-```
+### Acknowledgments:
+Special thanks to the Seaborn development team for creating such a powerful and user-friendly library for data visualization. Thanks also to the creators of the Netflix Userbase Dataset for providing a valuable resource for analysis and exploration.
+
+### Happy Analyzing!
