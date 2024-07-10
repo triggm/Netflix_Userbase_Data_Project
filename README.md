@@ -23,5 +23,3 @@ To use this notebook, follow these steps:
 
 ### Acknowledgments:
 Special thanks to the Seaborn development team for creating such a powerful and user-friendly library for data visualization. Thanks also to the creators of the Netflix Userbase Dataset for providing a valuable resource for analysis and exploration.
-
-### Happy Analyzing!
